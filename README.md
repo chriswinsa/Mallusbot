@@ -90,6 +90,3 @@ python3 bot.py
 • /broadcast - to broadcast a message to all Eva Maria users
 ```
 
-𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁 ›› [{A}{p}{p}{u}®{offline}®](https://t.me/filesharingnewbot)||                                                                                                                                       
-𝙶𝚁𝙾𝚄𝙿 ›› [NRM Movie update](https://t.me/+aOz9dbI2DZs1YWFl)                                             
-𝙲𝙷𝙰𝙽𝙽𝙴𝙻 ›› [NRM Movie update](https://t.me/Malayalmmovie45)
