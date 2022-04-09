@@ -1,12 +1,12 @@
 <p align="center">
 
-  <img src="assets/AJAX.png" alt="Ajax Techz">
+  <img src="assets/AJAX.png" alt="Mallusbot">
 
 </p>
 
 <h1 align="center">
 
-  <b>ᗩᒍᗩ᙭ 𝙸𝙼𝙳𝙱 𝙱𝙾𝚃 𝚅3</b>
+  <b>Mallusbot</b>
 
 </h1>
 
@@ -84,7 +84,7 @@ You can deploy this bot anywhere.
 
 <br>
 
-<a href="https://heroku.com/deploy?template=https://github.com/chriswinsa/Ajax">
+<a href="https://heroku.com/deploy?template=https://github.com/chriswinsa/Mallusbot">
 
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 
@@ -100,7 +100,7 @@ You can deploy this bot anywhere.
 
 <pre>
 
-git clone https://github.com/Aadhi000/Ajax
+git clone https://github.com/chriswinsa/Mallusbot
 
 # Install Packages
 
@@ -168,6 +168,6 @@ python3 bot.py
 
 ```
 
-𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁 ›› [𝐀𝐚𝐝𝐡𝐢](https://t.me/filesharingnewbot) ||)                                                                                                                                                                                    
+𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁 ›› [Appu](https://t.me/filesharingnewbot) ||)                                                                                                                                                                                    
 
-𝙲𝙷𝙰𝙽𝙽𝙴𝙻 ›› [𝐌𝐖 𝐔𝐩𝐝𝐚𝐭𝐞𝐬](https://t.me/filesharingnewbot)
+
